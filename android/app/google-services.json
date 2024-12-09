@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "395034377495",
+    "firebase_url": "https://astroremedy-90cb0-default-rtdb.firebaseio.com",
+    "project_id": "astroremedy-90cb0",
+    "storage_bucket": "astroremedy-90cb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395034377495:android:60d41f66285fb7f91dcb52",
+        "android_client_info": {
+          "package_name": "com.ksbm.aruser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395034377495-ukum1u71so1tptt2angc1oqao1vof4l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFk_mDulaw5oaNcQo9f-moGC9e-BF0Ufk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395034377495-pnkisnmonul70tp0j9g47mtcjsdo12au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
